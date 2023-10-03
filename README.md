@@ -9,3 +9,5 @@ This app, allows users to search GitHub profiles by username. Provides a simple 
 
 ## API 
 API: `https://api.github.com/users/${user}`
+
+link: https://search-user-github-six.vercel.app/
