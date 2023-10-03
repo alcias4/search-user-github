@@ -1,0 +1,17 @@
+{
+  "Dark": {
+    "body": "#141D2F",
+    "button": "#0079FF",
+    "colors": "#FFFFFF",
+    "font": "LIGHT",
+    "form": "#1E2A47",
+    "iconSvg": "./img/icon-sun.svg"
+  },
+  "Light": {
+    "body": "#f6f8ff",
+    "colors": "#2B3442",
+    "font": "DARK",
+    "form": "#FEFEFE",
+    "iconSvg": "./img/icon-moon.svg"
+  }
+}
