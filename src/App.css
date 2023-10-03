@@ -158,11 +158,18 @@ main {
   display: flex;
   align-items: center;
   gap: 10px;
-  width: 40%;
+  width: 45%;
   word-wrap: break-word;
-  overflow-x: auto;
   font-size: 1rem;
   min-height: 50px;
+  overflow-x: auto;
+}
+
+.info-red span::-webkit-scrollbar {
+  width: 2px;
+}
+.blog {
+  margin-top: 10px;
 }
 
 .info-red span a {

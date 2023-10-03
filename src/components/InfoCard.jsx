@@ -47,7 +47,10 @@ export function Infocard({ datos, datoUser }) {
               : "Not Available"}
           </a>
         </span>
-        <span style={!datoUser?.blog ? { opacity: 0.5 } : null}>
+        <span
+          className="blog"
+          style={!datoUser?.blog ? { opacity: 0.5 } : null}
+        >
           <img src="./img/icon-website.svg" alt="" />
           <a style={{ color: datos.colors }} href={datoUser?.blog}>
             {datoUser?.blog ? datoUser?.blog : "Not Available"}
