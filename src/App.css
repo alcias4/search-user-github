@@ -151,7 +151,7 @@ main {
   display: flex;
   flex-wrap: wrap;
   margin-top: 20px;
-  gap: 20px;
+  gap: 10px;
 }
 
 .info-red span {
@@ -169,7 +169,7 @@ main {
   width: 2px;
 }
 .blog {
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 .info-red span a {
